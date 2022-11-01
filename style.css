@@ -232,7 +232,7 @@ nav ul li a:hover {
     font-size: 100%;
 }
 
-.container-habilidades div i {
+.container-habilidades div em {
     color: #fff;
     font-size: 370%;
 }
@@ -296,6 +296,12 @@ nav ul li a:hover {
 }
 
 i {
+    color: rgb(241, 149, 241);
+    font-size: 250%;
+    padding: 10px;
+}
+
+strong {
     color: rgb(241, 149, 241);
     font-size: 250%;
     padding: 10px;
